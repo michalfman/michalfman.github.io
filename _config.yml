@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michal Friedman"
-  avatar           : "Photo_Michal.jpeg"
+  avatar           : "Portrait.jpg"
   bio              : "Postdoctoral Researcher, ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/michal-friedman-999b91200/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
