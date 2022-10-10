@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Michal Friedman is a postdoctoral researcher at the Systems Group, ETH Zürich, under the supervision of Prof. Gustavo Alonso. She completed her PhD at the Technion, Israel, under the supervision of Prof. Erez Petrank. Her major research interests include practice and theory of concurrency, particularly in relation to non-volatile memories and hetrogenious systems. Michal was awarded a Distinguished Paper Award at OOPSLA 2019 as well as an Azrieli PhD scholarship and a Blatvinik Prize for PhD students.
+I am a post-doc at the System Group of ETH, working with [Prof. Gustavo Alonso](https://systems.ethz.ch/people/profile.gustavo-alonso.html). My research interests are broad and include systems, concurrent computing and programming languages. I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Erez Petrank](https://www.cs.technion.ac.il/~erez/). I completed my BSc summa cum laude at the Computer Science Department at the Technion. Between 2014-2015, I worked at Elbit Systems in Yokneam, developing tools and infrastracture for main projects in the company. Between August-October of 2017, I interned at Google New-York, researching garbage collection for flash memory devices.
+
+
+
+
+
