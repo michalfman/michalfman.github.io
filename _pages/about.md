@@ -10,28 +10,30 @@ redirect_from:
 
 I am a post-doc at the System Group of ETH, working with [Prof. Gustavo Alonso](https://systems.ethz.ch/people/profile.gustavo-alonso.html). My research interests are broad and include systems, concurrent computing and programming languages. I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Erez Petrank](https://www.cs.technion.ac.il/~erez/). I completed my BSc summa cum laude at the Computer Science Department at the Technion. Between 2014-2015, I worked at Elbit Systems in Yokneam, developing tools and infrastracture for main projects in the company. Between August-October of 2017, I interned at Google New-York, researching garbage collection for flash memory devices.
 
----
+# Talks
+
+
+
+
+
 title: "Program Chair"
-collection: talks
 venue: "PPoPP: Principles and Practice of Parallel Programming"
 date: 2022
 location: "Montreal, Canada"
----
----
+
+
 title: "Program Chair"
 collection: talks
 venue: "VLDB: Very Large Data Bases"
 date: 2022
 location: "Vancouver, Canada"
----
----
+
 title: "Talk"
 collection: talks
 venue: "Intel"
 date: 2022-04
 location: "PMDK Team"
----
----
+
 title: "Talk"
 collection: talks
 venue: "Dagstuhl Seminar: Foundations of Persistent Programming"
