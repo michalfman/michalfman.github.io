@@ -4,7 +4,7 @@ collection: publications
 authors_before_me:
 author_me: Michal Friedman
 authors_after_me: Maurice Herlihy, Virendra Marathe, Erez Petrank
-date: 2018
+date: 2018-02-26
 venue: 'PPoPP 2018: Principles and Practice of Parallel Programming'
 ---
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3200691.3178490)

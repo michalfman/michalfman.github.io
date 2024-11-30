@@ -4,7 +4,7 @@ collection: publications
 authors_before_me: Yuanhao Wei, Naama Ben-David
 author_me: Michal Friedman
 authors_after_me: Guy E. Blelloch, Erez Petrank
-date: 2022
+date: 2022-04-05
 venue: 'PPoPP 2022: Principles and Practice of Parallel Programming'
 ---
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3503221.3508436)

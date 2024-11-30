@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michal Friedman"
 title_separator          : "-"
 name                     : &name "Michal Friedman"
-description              : &description "Postdoctoral Researcher, Dept. of Computer Science, ETH Zurich"
+description              : &description "Assistant Professor, Dept. of Computer Science, ETH Zurich"
 url                      : https://michalfman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michalfman/michalfman.github.io"
@@ -55,6 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+
 # Social Sharing
 twitter:
   username               : &twitter
@@ -82,12 +83,12 @@ analytics:
 author:
   name             : "Michal Friedman"
   avatar           : "My_Pic.jpg"
-  bio              : "Postdoctoral Researcher, ETH Zurich"
+  bio              : "Assistant Professor, ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=aP9j-zUAAAAJ&hl=en"
-  email            :
+  email            : michal.friedman@inf.ethz.ch
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/michal-friedman-999b91200/"
+  linkedin         : "michal-friedman-999b91200/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
@@ -152,7 +154,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -175,18 +176,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+  #  output: true
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -249,7 +250,6 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/

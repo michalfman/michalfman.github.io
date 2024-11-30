@@ -35,11 +35,12 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.1em;
   }
 }
 
 .archive__item-title {
+  margin-top: 0.1em;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
@@ -52,7 +53,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.1em;
     border-bottom: none;
   }
 }
@@ -120,7 +121,7 @@
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.1em;
     font-size: $type-size-5;
   }
 
@@ -163,7 +164,7 @@
 }
 
 .feature__item {
-  margin-bottom: 2em;
+  margin-bottom: 8em;
   font-size: 1.25rem;
 
   @include breakpoint($small) {
@@ -181,18 +182,18 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 0em;
     }
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(8 of 12);
       }
 
       .archive__item-body {
-        @include span(7 of 12 last);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
+        @include span(4 of 12 last);
+        @include prefix(0.1 of 12);
+        @include suffix(3 of 12);
       }
     }
   }
